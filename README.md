@@ -30,6 +30,7 @@ Languages, frameworks and libraries that I use: 👇&nbsp;
 <p>
 I have also researched and used some of the following languages, frameworks and tools in the past: 👇&nbsp;
 
+<div>
 <img src="https://img.shields.io/badge/assembly-8993be?style=for-the-badge&logo=assembly&logoColor=white" />
 <img src="https://img.shields.io/badge/c-5E97D0?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/c++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -55,6 +56,5 @@ I have also researched and used some of the following languages, frameworks and 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adonis.js-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electron.js-2F3241?style=for-the-badge&logo=electron&logoColor=white"/>
-<div>
 </div>
 </p>
