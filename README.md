@@ -1,9 +1,9 @@
 ## Hey! It's Andre Kybora.
 
 <p align="justify"> 
-I'm Andre Kybora, (Ahmad montazeri Not) a front-end and back-end engineer with over 4 years of experience and demonstrated history of working on small to large projects. <strong>I help companies and teams to build quality, tested, and maintainable products</strong>. I'm constantly looking for new solutions, modern tools, and improving the current performance of the system.
+I'm Andre Kybora, (Ahmad montazeri is real name) a front-end and back-end engineer with over 4 years of experience and demonstrated history of working on small to large projects. <strong>I help companies and teams to build quality, tested, and maintainable products</strong>. I'm constantly looking for new solutions, modern tools, and improving the current performance of the system.
 
-I always seek to have a great impact on processes, code structure, and solutions. Love open-source, Linux, Node.js ecosystem, and problem-solving.
+I always seek to have a great impact on processes, code structure, and solutions. Love open-source, Linux, Research and Development, and problem-solving.
 </p>
 
 
